@@ -1,0 +1,6 @@
+id=oplus-region-unlock
+name=Patch for OPLUS region lock
+version=v01
+versionCode=01
+author=AndroPlus
+description=Temporarily remove the region lock for OnePlus/realme.
